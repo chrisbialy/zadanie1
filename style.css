@@ -1,0 +1,33 @@
+	
+	
+	body {
+		 font-family:helvetica;
+	}
+	
+	div {
+		position:absolute;
+		width:20px;
+		height:20px;
+	}
+	
+	h1{
+		padding:10px;
+	
+	}
+
+	div {
+		position:absolute;
+		width:20px;
+		height:20px;
+	}
+	
+	#counter {
+		margin-left:50px;
+		margin-bottom:30px;
+		
+		}
+		
+	.bold {
+		font-weight:bold;
+		
+		}
